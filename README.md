@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmed Oweis
 - 👀 I’m interested in learing how to code
-- 🌱 I’m currently learning business in egyptian chinese university but have a side intretst in programming 🧑‍💻
+- 🌱 I’m currently learning business in egyptian chinese university but have a side interest in programming 🧑‍💻
 
 
 <!---
